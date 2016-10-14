@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jbinkPermission</string>
+    <string name="tedpermission_close">jbinkpermission_close</string>
+    <string name="tedpermission_confirm">jbinkpermission_confirm</string>
+</resources>
