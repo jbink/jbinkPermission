@@ -1,11 +1,10 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 23
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "jbink.appnapps.jbinkpermission"
         minSdkVersion 23
         targetSdkVersion 23
         versionCode 1
