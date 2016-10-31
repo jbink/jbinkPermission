@@ -1,6 +1,5 @@
-apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'maven'
+apply plugin: 'com.android.application'
+
 group = 'com.github.jbink'
 
 android {
@@ -8,6 +7,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
+        applicationId "jbink.appnapps.jbinkpermission"
         minSdkVersion 23
         targetSdkVersion 23
     }

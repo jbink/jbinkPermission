@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jbinkPermission.iml" filepath="$PROJECT_DIR$/jbinkPermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbinklibrary/mylibrary.iml" filepath="$PROJECT_DIR$/jbinklibrary/mylibrary.iml" />
     </modules>
   </component>
 </project>
