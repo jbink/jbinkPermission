@@ -15,7 +15,7 @@ public class jbinkBusProvider extends Bus{
         if(instance == null){
             instance = new jbinkBusProvider();
         }
-        return instance;
+        return instance; 
     }
 
     private final Handler mHandler = new Handler(Looper.getMainLooper());
