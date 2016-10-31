@@ -17,23 +17,4 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
     }
 
-    @OnClick({R.id.btn_nomessage, R.id.btn_only_deny_message, R.id.btn_only_rationale_message, R.id.btn_rationale_deny})
-    public void OnClick(View v){
-        Intent intent = null;
-
-        switch (v.getId()){
-            case R.id.btn_nomessage :
-                break;
-            case R.id.btn_only_deny_message :
-                break;
-            case R.id.btn_only_rationale_message :
-                break;
-            case R.id.btn_rationale_deny :
-                break;
-        }
-
-        if(intent != null){
-            startActivity(intent);
-        }
-    }
 }
