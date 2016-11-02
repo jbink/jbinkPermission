@@ -7,6 +7,7 @@ import android.view.View;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import jbink.appnapps.mylibrary.jbinkInstance;
 
 public class MainActivity extends AppCompatActivity {
 

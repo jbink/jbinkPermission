@@ -1,1 +1,1 @@
-include 'jbinklibrary'
+include ':app', ':jbinklibrary'
